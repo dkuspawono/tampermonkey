@@ -84,7 +84,7 @@ Depending on your installed browser and OS (I hope this makes the overall scheme
 chrome.exe --pack-extension=rel/
 chromium.exe --pack-extension=rel/
 
-coogle-chrome --pack-extension=rel/
+google-chrome --pack-extension=rel/
 chromium-browser --pack-extension=rel/
 
 ls -la now shows two new files:
