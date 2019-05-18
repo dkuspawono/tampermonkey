@@ -2,9 +2,6 @@
   "fatal_error": {
     "message": "fatal error"
   },
-  "Please_consider_a_donation": {
-    "message": "Please consider a donation"
-  },
   "Invalid_scheme_of_url": {
     "message": "Invalid scheme of url"
   },
@@ -937,13 +934,13 @@
     "message": "polski"
   },
   "Chinese__Simplified_": {
-    "message": "中文 (简体)"
+    "message": 🇨🇳"中文 (简体)"
   },
   "Chinese__Traditional_": {
-    "message": "中文 (繁體)"
+    "message": 🇨🇳"中文 (繁體)"
   },
   "Japanese": {
-    "message": "日本語"
+    "message": 🇯🇵"日本語"
   },
   "EOF": {
     "message": "EOF"
